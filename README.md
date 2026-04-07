@@ -26,17 +26,19 @@ Styling: Custom CSS
 Linting: ESLint
 
 📦 Installation & Setup
-Clone the repository:
+1. Clone the repository:
 git clone https://github.com/PranavHotha/react-weather-app.git
+
+2. Change directory to the project: 
 cd react-weather-app
 
-Install dependencies:
+3. Install dependencies:
 npm install
 
-Set up Environment Variables:
+4. Set up Environment Variables:
 Create a .env file in the root directory and add your OpenWeatherMap API key:
 
 VITE_WEATHER_API_KEY=your_api_key_here
 
-Run the application:
+5. Run the application:
 npm run dev
