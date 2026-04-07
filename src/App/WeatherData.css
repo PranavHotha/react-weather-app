@@ -1,0 +1,12 @@
+.weather-results {
+  color: black;
+  background-color: rgb(53, 178, 220);
+  text-align: center;
+  padding: 1px;
+  margin-top: 10px;
+}
+
+.weather-results h2 {
+  color: black;
+  margin-top: 10px;
+}
