@@ -1,4 +1,6 @@
 React Weather Application
+
+
 A modern, responsive weather dashboard built with React.js and Vite, utilizing the OpenWeatherMap API to provide real-time weather data for cities worldwide.
 
 Features
